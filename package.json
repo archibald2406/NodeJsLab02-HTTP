@@ -1,0 +1,24 @@
+{
+  "name": "nodejslab02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archibald2406/NodeJsLab02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archibald2406/NodeJsLab02/issues"
+  },
+  "homepage": "https://github.com/archibald2406/NodeJsLab02#readme",
+  "dependencies": {
+    "@types/node": "^12.0.2",
+    "express": "^4.17.0"
+  }
+}
